@@ -65,6 +65,10 @@ color:rgb(20, 20, 17);
    color:black;
 }
 
+.poem strong{
+    color: rgb(9, 22, 144);
+}
+
 footer{
     text-align: center;
     font-size: 18px;
