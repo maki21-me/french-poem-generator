@@ -51,6 +51,7 @@ color:rgb(20, 20, 17);
     width: 150px;
     font-size: 16px;
     padding: 14px 24px;
+    cursor: pointer;
 }
 
 .poem{
@@ -61,7 +62,7 @@ color:rgb(20, 20, 17);
     line-height: 1.5;
     border-left: 3px solid blue;
     box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
-   
+   color:black;
 }
 
 footer{
